@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://119-96-211-1.ksyungslb.com/bigota.d.miui.com/V10.1.4.0.OFICNXM/miui_MIPLAY_V10.1.4.0.OFICNXM_b871b371c8_8.1.zip?ksy_gslb_referer=https%3A%2F%2Fmiuiver.com%2Flotus_recovery%2F
+  ROM_URL: http://58.49.180.1/bigota.d.miui.com/V11.0.6.0.OFICNXM/miui_MIPLAY_V11.0.6.0.OFICNXM_cc8e5d1cf1_8.1.zip
   ROM_NAME: MEIZU PRO7S
   TZ: Asia/Shanghai
 
