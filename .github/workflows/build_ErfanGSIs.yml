@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dlsvr04.asus.com.cn/pub/ASUS/ZenFone/ZS620KL/UL-Z01R-WW-90.11.162.111-user.zip
-  ROM_NAME: ZenUI
+  ROM_URL: https://119-96-211-1.ksyungslb.com/bigota.d.miui.com/V10.1.4.0.OFICNXM/miui_MIPLAY_V10.1.4.0.OFICNXM_b871b371c8_8.1.zip?ksy_gslb_referer=https%3A%2F%2Fmiuiver.com%2Flotus_recovery%2F
+  ROM_NAME: MEIZU PRO7S
   TZ: Asia/Shanghai
 
 jobs:
